@@ -1,40 +1,58 @@
-# 🌟 Power BI Dashboard Portfolio
+# 📊 Sales Performance Dashboard — Power BI Portfolio Project
 
-This repository showcases a collection of **interactive Power BI dashboards** built to analyze real-world business scenarios across multiple domains — including Sales, HR, Finance, Marketing, and Supply Chain.
-
-Each dashboard demonstrates different Power BI techniques:
-- Data Cleaning & Transformation (Power Query)
-- Data Modeling & Relationships
-- DAX Measures & Time Intelligence
-- KPI Design & Dynamic Visuals
-- Forecasting, Drill-Through & Interactivity
-- Custom Themes & Layouts
+## 📌 Overview
+The **Sales Performance Dashboard** provides a complete view of business performance using the Superstore dataset.  
+It visualizes sales, profit, and customer behavior across regions, categories, and time to support data-driven decisions.
 
 ---
 
-## 🧩 Dashboards in This Portfolio
-
-| Dashboard | Description | Live Link |
-|------------|--------------|-----------|
-| [📊 Sales Performance Dashboard](./Sales_Performance_Dashboard/README.md) | Sales, Profit & Customer Insights using Superstore data | [[Live Power BI Link](https://app.powerbi.com/groups/me/reports/935bfdf3-8e86-4256-a3ec-d27841f92083/a80244043193d9ca613e?experience=power-bi)](#) |
-| [👥 HR Analytics Dashboard](./HR_Analytics_Dashboard/README.md) | Employee trends, attrition, and HR KPIs | [Live Power BI Link](#) |
-| [💰 Finance Dashboard](./Finance_Dashboard/README.md) | P&L and time-based performance insights | [Live Power BI Link](#) |
-| [📈 Marketing Dashboard](./Marketing_Dashboard/README.md) | Campaign performance and customer acquisition | [Live Power BI Link](#) |
-| [🚚 Supply Chain Dashboard](./SupplyChain_Dashboard/README.md) | Inventory, lead time, and shipping performance | [Live Power BI Link](#) |
+## 💡 Key Insights
+- Sales Trends  
+- Product Performance  
+- Customer Insights  
+- Forecasting  
+- Q&A Visual  
 
 ---
 
-## 🧠 Tools & Technologies
-- **Microsoft Power BI Desktop**
-- **Power Query**
-- **DAX (Data Analysis Expressions)**
-- **Excel / CSV Datasets**
-- **GitHub for Version Control**
-- **Power BI Service for Dashboard Hosting**
+## ✨ Features
+- KPI Cards: Total Sales, Profit, Quantity, Profit Margin  
+- Interactive Slicers: Category, Region, Year  
+- Line Chart: Sales Trends Over Time  
+- Bar & Column Charts: Category and Sub-Category Performance  
+- Map: Sales by Region and State  
+- Table with Conditional Formatting: Customer Performance  
+- Top 10 Products Chart using DAX Ranking  
+- Forecasting Line for Predictive Insights  
+- Natural Language **Q&A Visual**  
+- Custom Theme (Blue-Green-Orange Palette) for a professional look  
 
 ---
 
-## 👨‍💻 Author
-**Sohan Phadikar**  
-Power BI | Data Analytics | Visualization Enthusiast   
-# powerbi-dashboard-portfolio
+## 🧠 Tools & Techniques
+- Power Query for Data Cleaning & Transformation  
+- DAX Measures for KPIs and Growth Analysis  
+- Time Intelligence Functions (SAMEPERIODLASTYEAR, DATEADD)  
+- Interactive Filters and Dynamic Drill-through  
+- Power BI Custom Theme for Consistent Design  
+
+---
+
+## 📂 Files Included
+| File | Description |
+|------|--------------|
+| `Sales_Performance.pbix` | Power BI dashboard file |
+| `Sales_Superstore.xlsx` | Dataset used for analysis |
+| `Sales_Performance.pdf` | Exported dashboard snapshot |
+| `README.md` | Project summary & documentation |
+
+---
+
+## 🔗 Demo & Access
+- **Live Dashboard:** [[Add Power BI Web Link Here](https://app.powerbi.com/groups/me/reports/935bfdf3-8e86-4256-a3ec-d27841f92083/a80244043193d9ca613e?experience=power-bi)]  
+- **Portfolio Website:** [Add Website Dashboard Link Here]  
+
+---
+
+## 🧾 About This Project
+This project is part of a multi-dashboard Power BI portfolio covering different business domains — including Sales, HR, Finance, Marketing, and Customer Analytics — to demonstrate advanced Power BI capabilities in data visualization, storytelling, and insight generation.
