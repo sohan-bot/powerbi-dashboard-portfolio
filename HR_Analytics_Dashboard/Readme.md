@@ -81,3 +81,5 @@ Consistent color palette used across all dashboards for branding and clarity.
 ### 🔹 Forecasting & KPI Trends  
 - **Attrition Rate** expected to slightly increase over next two years.  
 - **Salary Forecast** shows steady growth trend with tenure.
+
+Live Link - https://app.powerbi.com/groups/me/reports/278321c8-c7e5-423c-b3dc-550d37011983/30285ef8d06075f4ab2e?experience=power-bi
