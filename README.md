@@ -16,7 +16,7 @@ Each dashboard demonstrates different Power BI techniques:
 
 | Dashboard | Description | Live Link |
 |------------|--------------|-----------|
-| [📊 Sales Performance Dashboard](./HR_Analytics_Dashboard/Readme.md) | Sales, Profit & Customer Insights using Superstore data | [Live Power BI Link](https://app.powerbi.com/groups/me/reports/935bfdf3-8e86-4256-a3ec-d27841f92083/a80244043193d9ca613e?experience=power-bi) |
+| [📊 Sales Performance Dashboard](./Sales%20performance%20Dashboard/README.md) | Sales, Profit & Customer Insights using Superstore data | [Live Power BI Link](https://app.powerbi.com/groups/me/reports/935bfdf3-8e86-4256-a3ec-d27841f92083/a80244043193d9ca613e?experience=power-bi) |
 | [👥 HR Analytics Dashboard](./HR_Analytics_Dashboard/Readme.md) | Employee trends, attrition, and HR KPIs | [Live Power BI Link](https://app.powerbi.com/groups/me/reports/278321c8-c7e5-423c-b3dc-550d37011983/30285ef8d06075f4ab2e?experience=power-bi) |
 | [💰 Finance Dashboard](./Finance_Dashboard/README.md) | P&L and time-based performance insights | [Live Power BI Link](#) |
 | [📈 Marketing Dashboard](./Marketing_Dashboard/README.md) | Campaign performance and customer acquisition | [Live Power BI Link](#) |
